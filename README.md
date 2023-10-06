@@ -3,6 +3,9 @@ Simple repository demoing how to train OpenAI LLM using LangChain on text docume
 
 ## Getting Started
 
+A pre-requisite for this project is to have Python 3.11 installed on your machine, and to have some basic familiarity
+with the language. You can find the installation instructions for Python [here](https://www.python.org/downloads/).
+
 1. Clone this repository.
 2. Install dependencies.
 
